@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/uart_bootloader_pic32mx470_cur.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>9360</length>                 
+      <used>3416</used>                     
+      <free>5944</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>131056</length>                 
+      <used>8224</used>                     
+      <free>122832</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

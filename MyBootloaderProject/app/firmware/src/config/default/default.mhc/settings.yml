@@ -1,0 +1,14 @@
+configName: default
+folderName: uart_bootloader_test_app_pic32mx470_cur
+format_version: v1.0
+frameworkPath: ..\..\..\..\..\..\..\microchip\harmony\v3.3.0
+processor: PIC32MX470F512H
+projectName: uart_bootloader_test_app_pic32mx470_cur
+settings:
+  PackageFilter: audio;azure-rtos-threadx;bootloader;bootloader_apps_i2c;bootloader_apps_uart;bsp;bt;core;core_apps_pic32mx;core_apps_pic32mz_da;core_apps_pic32mz_ef;core_apps_sam_d21_da1;core_apps_sam_e70_s70_v70_v71;core_apps_sam_l21;crypto;csp;csp_apps_pic32mx;csp_apps_pic32mz_da;csp_apps_pic32mz_ef;csp_apps_sam_d21_da1;csp_apps_sam_l21;dev_packs;gfx;gfx_apps;micrium_ucos3;motor_control;net;net_apps_pic32mx;net_apps_pic32mz;net_apps_sam_e70_v71;net_apps_sam_rh71;quick_docs;touch;usb;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: ALL
+  DFPPath: .\dev_packs\Microchip\PIC32MX_DFP\1.5.259\atdf\PIC32MX470F512H.atdf
